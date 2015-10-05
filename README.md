@@ -1,0 +1,1 @@
+This Ruby program produces a numbers table. The program displays a square 4x4 of various numbers, starting with the value provided by the user.  The entered number appears in an X like pattern across the table.  Filling the rest of the square, each successive filler number printed is one less than the filler number previously printed.  
